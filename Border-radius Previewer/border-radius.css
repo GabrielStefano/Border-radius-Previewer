@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 12px 'Lucida Grande', Arial, sans-serif;
+    width: 500px;
+    margin: auto;
+}
+
+.header{
+    margin-top: 50px;
+    padding: 8px;
+    background-color: aliceblue;
+}
+
+.section{
+
+
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 12pt;
+    font-style: italic;
+    padding-top: 10px;
+}
